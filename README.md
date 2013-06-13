@@ -1,5 +1,4 @@
 ## Morse Code Generator
--------------------------------------------------------------
 A small program used to generate the morse code "signal" used by the Morse Code Interpreter Program.
 
 #### Usage
